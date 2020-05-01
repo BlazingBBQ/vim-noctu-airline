@@ -11,8 +11,15 @@ theme.
 ### Example
 
 Example of vim-noctu-airline and vim-noctu in a kitty terminal using the [Grape
-theme](https://github.com/dexpota/kitty-themes).  ![example in
+theme](https://github.com/dexpota/kitty-themes). ![example in
 terminal](images/vim-busy.png)
+
+Example normal, insert, visual, replace and trailing whitespace bars:
+![normal airline bar](images/noctu-airline-normal.png)
+![insert airline bar](images/noctu-airline-insert.png)
+![visual airline bar](images/noctu-airline-visual.png)
+![replace airline bar](images/noctu-airline-replace.png)
+![trailing whitespace airline bar](images/noctu-airline-trailing.png)
 
 ### Installation
 
